@@ -210,7 +210,7 @@
 
             // footer div.. sec6
             var footerDiv = document.createElement("div");
-            footerDiv.innerHTML = "<p>Suneel@copyright...</p>";
+            footerDiv.innerHTML = "<p>Suneel Chauhan@copyright...</p>";
             footerDiv.style.fontSize = "25px";
             footerDiv.style.letterSpacing = "1px";
             footerDiv.style.color = "white";
